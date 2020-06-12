@@ -1,0 +1,15 @@
+C:\Users\fdein\source\repos\WordCountingWebCrawler\WordCountingWebCrawler\bin\Debug\netcoreapp3.1\WordCountingWebCrawler.exe
+C:\Users\fdein\source\repos\WordCountingWebCrawler\WordCountingWebCrawler\bin\Debug\netcoreapp3.1\WordCountingWebCrawler.deps.json
+C:\Users\fdein\source\repos\WordCountingWebCrawler\WordCountingWebCrawler\bin\Debug\netcoreapp3.1\WordCountingWebCrawler.runtimeconfig.json
+C:\Users\fdein\source\repos\WordCountingWebCrawler\WordCountingWebCrawler\bin\Debug\netcoreapp3.1\WordCountingWebCrawler.runtimeconfig.dev.json
+C:\Users\fdein\source\repos\WordCountingWebCrawler\WordCountingWebCrawler\bin\Debug\netcoreapp3.1\WordCountingWebCrawler.dll
+C:\Users\fdein\source\repos\WordCountingWebCrawler\WordCountingWebCrawler\bin\Debug\netcoreapp3.1\WordCountingWebCrawler.pdb
+C:\Users\fdein\source\repos\WordCountingWebCrawler\WordCountingWebCrawler\obj\Debug\netcoreapp3.1\WordCountingWebCrawler.csprojAssemblyReference.cache
+C:\Users\fdein\source\repos\WordCountingWebCrawler\WordCountingWebCrawler\obj\Debug\netcoreapp3.1\WordCountingWebCrawler.AssemblyInfoInputs.cache
+C:\Users\fdein\source\repos\WordCountingWebCrawler\WordCountingWebCrawler\obj\Debug\netcoreapp3.1\WordCountingWebCrawler.AssemblyInfo.cs
+C:\Users\fdein\source\repos\WordCountingWebCrawler\WordCountingWebCrawler\obj\Debug\netcoreapp3.1\WordCountingWebCrawler.dll
+C:\Users\fdein\source\repos\WordCountingWebCrawler\WordCountingWebCrawler\obj\Debug\netcoreapp3.1\WordCountingWebCrawler.pdb
+C:\Users\fdein\source\repos\WordCountingWebCrawler\WordCountingWebCrawler\obj\Debug\netcoreapp3.1\WordCountingWebCrawler.genruntimeconfig.cache
+C:\Users\fdein\source\repos\WordCountingWebCrawler\WordCountingWebCrawler\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\fdein\source\repos\WordCountingWebCrawler\WordCountingWebCrawler\obj\Debug\netcoreapp3.1\WordCountingWebCrawler.csproj.CoreCompileInputs.cache
+C:\Users\fdein\source\repos\WordCountingWebCrawler\WordCountingWebCrawler\obj\Debug\netcoreapp3.1\WordCountingWebCrawler.csproj.CopyComplete
