@@ -1,11 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Runtime.CompilerServices;
 using System.Threading.Tasks;
 
 namespace WordCountingWebCrawler
 {
-    class WordCountCrawler
+    class WordCountCrawler : IWordCountCrawler
     {
         private string initialUrl;
         private int depth;
@@ -42,7 +41,7 @@ namespace WordCountingWebCrawler
 
         private List<Task<Dictionary<string, int>>> tasks;
 
-        public bool TryProcessAnotherPage(WebPageContentProcessor webPageContentProcessor)
+        public bool TryProcessAnotherPage(IWebPageContentProcessor webPageContentProcessor)
         {
             if (tasks.Count < depth)
             {

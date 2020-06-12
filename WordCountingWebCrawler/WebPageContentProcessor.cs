@@ -1,19 +1,16 @@
 ﻿using HtmlAgilityPack;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Net;
 using System.Net.Http;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace WordCountingWebCrawler
 {
-    class WebPageContentProcessor
+    class WebPageContentProcessor : IWebPageContentProcessor
     {
         private HtmlDocument htmlDocument;
 
-        public async Task Start(string url, WordCountCrawler wordCountCrawler)
+        public async Task Start(string url, IWordCountCrawler wordCountCrawler)
         {
             var client = new HttpClient();
             var pageContent = await client.GetStringAsync(url);

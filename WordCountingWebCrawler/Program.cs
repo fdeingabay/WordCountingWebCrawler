@@ -27,9 +27,12 @@ namespace WordCountingWebCrawler
 
         private static void ShowResults(Dictionary<string, int> results)
         {
+            Console.WriteLine();
+            Console.WriteLine("Processing...");
+
             foreach (var keyValuePair in results)
             {
-                Console.WriteLine($"{keyValuePair.Key}:{keyValuePair.Value}");
+                Console.WriteLine($"{keyValuePair.Key}: {keyValuePair.Value}");
             }
         }
     }
